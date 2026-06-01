@@ -1,4 +1,4 @@
-
+# Find Minimum in Rotated Sorted Array
 
 # ou are given an array of length n which was originally sorted in ascending order. It has now been rotated between 1 and n times. For example, the array nums = [1,2,3,4,5,6] might become:
 
